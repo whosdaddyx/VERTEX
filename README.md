@@ -4,7 +4,7 @@
 
 # VERTEX
 
-VERTEX is an all-in-one Discord management platform built to help communities stay safer, organized, and easier to manage.
+Enterprise-grade Discord management platform built to help communities protect, automate, and grow their servers.
 
 ## Features
 
@@ -19,6 +19,11 @@ VERTEX is an all-in-one Discord management platform built to help communities st
 - Server insights
 - Twitch & YouTube notifications
 
-## Website
+## Get Started
 
+🌐 Website
 https://botvertex.pro
+
+💬 Join our Discord Community
+
+⭐ Star this repository if you'd like to follow the project.
