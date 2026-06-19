@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="VERTEX Banner">
+  <img src="banner.png" alt="VERTEX Banner">
 </p>
 
 # VERTEX
